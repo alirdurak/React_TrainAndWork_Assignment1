@@ -1,0 +1,1039 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category_name": "Telefonlar",
+      "name": "iPhone 14 Pro Max",
+      "price": "12.999 TL",
+      "brand": "Apple",
+      "model": "iPhone 14 Pro Max",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0274/1521/products/12820_2048x2048.jpg"
+    },
+    {
+      "id": 2,
+      "category_name": "Telefonlar",
+      "name": "Samsung Galaxy S23 Ultra",
+      "price": "11.999 TL",
+      "brand": "Samsung",
+      "model": "Galaxy S23 Ultra",
+      "imageUrl": "https://www.samsung.com/tr/smartphones/galaxy-s23-ultra/"
+    },
+    {
+      "id": 3,
+      "category_name": "Telefonlar",
+      "name": "Xiaomi 12 Pro",
+      "price": "10.999 TL",
+      "brand": "Xiaomi",
+      "model": "12 Pro",
+      "imageUrl": "https://www.mi.com/tr/mi12pro/"
+    },
+    {
+      "id": 4,
+      "category_name": "Telefonlar",
+      "name": "Oppo Find X5 Pro",
+      "price": "9.999 TL",
+      "brand": "Oppo",
+      "model": "Find X5 Pro",
+      "imageUrl": "https://www.oppo.com/tr/urun/find-x5-pro/"
+    },
+    {
+      "id": 5,
+      "category_name": "Telefonlar",
+      "name": "Huawei P50 Pro",
+      "price": "8.999 TL",
+      "brand": "Huawei",
+      "model": "P50 Pro",
+      "imageUrl": "https://consumer.huawei.com/tr/phones/p50-pro/"
+    },
+    {
+      "id": 6,
+      "category_name": "Telefonlar",
+      "name": "iPhone 14 Pro",
+      "price": "11.499 TL",
+      "brand": "Apple",
+      "model": "iPhone 14 Pro",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0274/1521/products/12821_2048x2048.jpg"
+    },
+    {
+      "id": 7,
+      "category_name": "Telefonlar",
+      "name": "Samsung Galaxy S23+",
+      "price": "10.499 TL",
+      "brand": "Samsung",
+      "model": "Galaxy S23+",
+      "imageUrl": "https://www.samsung.com/tr/smartphones/galaxy-s23-plus/"
+    },
+    {
+      "id": 8,
+      "category_name": "Telefonlar",
+      "name": "Xiaomi 12",
+      "price": "9.499 TL",
+      "brand": "Xiaomi",
+      "model": "12",
+      "imageUrl": "https://www.mi.com/tr/mi12/"
+    },
+    {
+      "id": 9,
+      "category_name": "Telefonlar",
+      "name": "Oppo Find X5",
+      "price": "8.499 TL",
+      "brand": "Oppo",
+      "model": "Find X5",
+      "imageUrl": "https://www.oppo.com/tr/urun/find-x5/"
+    },
+    {
+      "id": 10,
+      "category_name": "Telefonlar",
+      "name": "Huawei P50",
+      "price": "7.499 TL",
+      "brand": "Huawei",
+      "model": "P50",
+      "imageUrl": "https://consumer.huawei.com/tr/phones/p50/"
+    },
+    {
+      "id": 11,
+      "category_name": "Bilgisayar",
+      "name": "MacBook Air M2",
+      "price": "16.999 TL",
+      "brand": "Apple",
+      "model": "MacBook Air M2",
+      "imageUrl": "https://www.apple.com/tr/macbook-air/"
+    },
+    {
+      "id": 12,
+      "category_name": "Bilgisayar",
+      "name": "Dell XPS 13 2-in-1",
+      "price": "21.999 TL",
+      "brand": "Dell",
+      "model": "XPS 13 2-in-1",
+      "imageUrl": "https://www.dell.com/tr-tr/shop/laptops/xps-13-2-in-1/spd/xps-13-9320-2in1_fhd_a"
+    },
+    {
+      "id": 13,
+      "category_name": "Bilgisayar",
+      "name": "HP Spectre x360 16",
+      "price": "24.999 TL",
+      "brand": "HP",
+      "model": "Spectre x360 16",
+      "imageUrl": "https://www.hp.com/tr/com/pdp/spectre-x360-16-pdp3R0B7EA#ABA"
+    },
+    {
+      "id": 14,
+      "category_name": "Bilgisayar",
+      "name": "Lenovo Yoga 9i 14",
+      "price": "22.999 TL",
+      "brand": "Lenovo",
+      "model": "Yoga 9i 14",
+      "imageUrl": "https://www.lenovo.com/tr/tr/laptops/yoga/yoga-9i-series/yoga-9i-14ach6-1/pdp/82h0b003tr"
+    },
+    {
+      "id": 15,
+      "category_name": "Bilgisayar",
+      "name": "Asus ZenBook 14X OLED",
+      "price": "20.999 TL",
+      "brand": "Asus",
+      "model": "ZenBook 14X OLED",
+      "imageUrl": "https://www.asus.com/tr/Laptops/For-Home/ZenBook/ZenBook-14X-OLED-UX5402ZA/"
+    },
+    {
+      "id": 16,
+      "category_name": "Bilgisayar",
+      "name": "Acer Swift X",
+      "price": "18.999 TL",
+      "brand": "Acer",
+      "model": "Swift X",
+      "imageUrl": "https://www.acer.com/ac/tr/TR/content/model/A315-56G-70U2"
+    },
+    {
+      "id": 17,
+      "category_name": "Bilgisayar",
+      "name": "MSI Prestige 14",
+      "price": "17.999 TL",
+      "brand": "MSI",
+      "model": "Prestige 14",
+      "imageUrl": "https://www.msi.com/Laptops/Prestige/Prestige-14-A12UX/"
+    },
+    {
+      "id": 18,
+      "category_name": "Bilgisayar",
+      "name": "Honor MagicBook 14",
+      "price": "15.999 TL",
+      "brand": "Honor",
+      "model": "MagicBook 14",
+      "imageUrl": "https://www.honor.com/tr/product/magicbook-14/"
+    },
+    {
+      "id": 19,
+      "category_name": "Giyim",
+      "name": "Erkek Tişört",
+      "price": "100 TL",
+      "brand": "Koton",
+      "model": "Kot Siyah Tişört",
+      "imageUrl": "https://www.koton.com.tr/erkek-t-shirt-2KAM12128OW-001-1.html"
+    },
+    {
+      "id": 20,
+      "category_name": "Giyim",
+      "name": "Kadın Elbise",
+      "price": "200 TL",
+      "brand": "Zara",
+      "model": "Zara Siyah Elbise",
+      "imageUrl": "https://www.zara.com/tr/tr/elbise-p05447016.html"
+    },
+    {
+      "id": 21,
+      "category_name": "Giyim",
+      "name": "Çocuk Ayakkabısı",
+      "price": "150 TL",
+      "brand": "Nike",
+      "model": "Nike Air Max 270",
+      "imageUrl": "https://www.nike.com.tr/air-max-270-gs-erkek-kiz-cocuk-spor-ayakkabi-cu9038-001"
+    },
+    {
+      "id": 22,
+      "category_name": "Giyim",
+      "name": "Erkek Gömlek",
+      "price": "120 TL",
+      "brand": "Lcw",
+      "model": "Lcw Slim Fit Keten Gömlek",
+      "imageUrl": "https://www.lcwaikiki.com/tr-tr/erkek-keten-gomlek-p-1228756.html"
+    },
+    {
+      "id": 23,
+      "category_name": "Giyim",
+      "name": "Kadın Pantolon",
+      "price": "150 TL",
+      "brand": "Defacto",
+      "model": "Defacto Slim Fit Jean Pantolon",
+      "imageUrl": "https://www.defacto.com.tr/slim-fit-jean-pantolon-p-9929876"
+    },
+    {
+      "id": 24,
+      "category_name": "Giyim",
+      "name": "Bebek Giyim Seti",
+      "price": "250 TL",
+      "brand": "Bebek Giyim",
+      "model": "Bebek Giyim Seti",
+      "imageUrl": "https://www.bebek.com.tr/bebek-giyim-seti-p-123456789"
+    },
+    {
+      "id": 25,
+      "category_name": "Giyim",
+      "name": "Erkek Ayakkabısı",
+      "price": "200 TL",
+      "brand": "Adidas",
+      "model": "Adidas Superstar",
+      "imageUrl": "https://www.adidas.com.tr/superstar-erkek-tenis-ayakkabisi-g54638"
+    },
+    {
+      "id": 26,
+      "category_name": "Giyim",
+      "name": "Kadın Etek",
+      "price": "170 TL",
+      "brand": "Bershka",
+      "model": "Bershka Siyah Etek",
+      "imageUrl": "https://www.bershka.com/tr/tr/etek-p-07896771.html"
+    },
+    {
+      "id": 270,
+      "category_name": "Giyim",
+      "name": "Çocuk Kazak",
+      "price": "100 TL",
+      "brand": "LCW",
+      "model": "LCW Basic Uzun Kollu Kız Çocuk Triko Kazak",
+      "imageUrl": "https://www.lcwaikiki.com/tr-tr/kiz-cocuk-kazak-p-1228757.html"
+    },
+    {
+      "id": 27,
+      "category_name": "Ev ve Yaşam",
+      "name": "Çamaşır Makinesi",
+      "price": "10.000 TL",
+      "brand": "Arçelik",
+      "model": "9100 M",
+      "imageUrl": "https://www.arcelik.com.tr/bulasik-makinasi/9100-m"
+    },
+    {
+      "id": 28,
+      "category_name": "Ev ve Yaşam",
+      "name": "Buzdolabı",
+      "price": "15.000 TL",
+      "brand": "Samsung",
+      "model": "RT6000H",
+      "imageUrl": "https://www.samsung.com/tr/beyaz-esya/buzdolabi/rt6000h"
+    },
+    {
+      "id": 29,
+      "category_name": "Ev ve Yaşam",
+      "name": "Televizyon",
+      "price": "20.000 TL",
+      "brand": "LG",
+      "model": "C1",
+      "imageUrl": "https://www.lg.com/tr/tv/oled/oled-c1"
+    },
+    {
+      "id": 30,
+      "category_name": "Ev ve Yaşam",
+      "name": "Yatak Odası Takımı",
+      "price": "30.000 TL",
+      "brand": "İstikbal",
+      "model": "Enza Sona",
+      "imageUrl": "https://www.istikbal.com.tr/yatak-odasi-takimlari/enza-sona"
+    },
+    {
+      "id": 31,
+      "category_name": "Ev ve Yaşam",
+      "name": "Yatak Örtüsü Seti",
+      "price": "2.000 TL",
+      "brand": "Karaca Home",
+      "model": "Livia",
+      "imageUrl": "https://www.karacahome.com/yatak-ortusu-seti/livia"
+    },
+    {
+      "id": 32,
+      "category_name": "Ev ve Yaşam",
+      "name": "Halıfleks",
+      "price": "5.000 TL",
+      "brand": "Aksu",
+      "model": "Aksu Selina",
+      "imageUrl": "https://www.aksuhali.com/urun/selina-haliflex"
+    },
+    {
+      "id": 33,
+      "category_name": "Ev ve Yaşam",
+      "name": "Pike Takımı",
+      "price": "1.500 TL",
+      "brand": "Taç",
+      "model": "Melek",
+      "imageUrl": "https://www.tac.com.tr/pike-takimi/melek"
+    },
+    {
+      "id": 34,
+      "category_name": "Ev ve Yaşam",
+      "name": "Mutfak Robotu",
+      "price": "3.000 TL",
+      "brand": "Arçelik",
+      "model": "K 1270",
+      "imageUrl": "https://www.arcelik.com.tr/mutfak-robotu/k-1270"
+    },
+    {
+      "id": 35,
+      "category_name": "Ev ve Yaşam",
+      "name": "Tost Makinesi",
+      "price": "500 TL",
+      "brand": "Tefal",
+      "model": "Toast Expert",
+      "imageUrl": "https://www.tefal.com.tr/tost-makinasi/toast-expert"
+    },
+    {
+      "id": 36,
+      "category_name": "Spor ve Outdoor",
+      "name": "Koşu Ayakkabısı",
+      "price": "500 TL",
+      "brand": "Nike",
+      "model": "Air Zoom Pegasus 39",
+      "imageUrl": "https://www.nike.com/tr/t/air-zoom-pegasus-39-koşu-ayakkabisi-cv3949-100/CV3949-100"
+    },
+    {
+      "id": 37,
+      "category_name": "Spor ve Outdoor",
+      "name": "Yürüyüş Ayakkabısı",
+      "price": "400 TL",
+      "brand": "Adidas",
+      "model": "FortaRun X",
+      "imageUrl": "https://www.adidas.com.tr/fortarun-x-cocuk-yuruyus-ayakkabisi/FW4931.html"
+    },
+    {
+      "id": 38,
+      "category_name": "Spor ve Outdoor",
+      "name": "Basketbol Ayakkabısı",
+      "price": "800 TL",
+      "brand": "Under Armour",
+      "model": "Curry Flow 9",
+      "imageUrl": "https://www.underarmour.com.tr/curry-flow-9-basketbol-ayakkabisi/3023629-001.html"
+    },
+    {
+      "id": 39,
+      "category_name": "Spor ve Outdoor",
+      "name": "Futbol Ayakkabısı",
+      "price": "1000 TL",
+      "brand": "Nike",
+      "model": "Phantom GT2 Elite Dynamic Fit FG",
+      "imageUrl": "https://www.nike.com/tr/t/phantom-gt2-elite-dynamic-fit-fg-futbol-ayakkabisi-cv5060-100/CV5060-100"
+    },
+    {
+      "id": 40,
+      "category_name": "Spor ve Outdoor",
+      "name": "Tenis Ayakkabısı",
+      "price": "700 TL",
+      "brand": "Adidas",
+      "model": "Adidas Adizero Ubersonic 4",
+      "imageUrl": "https://www.adidas.com.tr/adizero-ubersonic-4-tenis-ayakkabisi/FW3670.html"
+    },
+    {
+      "id": 41,
+      "category_name": "Spor ve Outdoor",
+      "name": "Sporcu Gözlüğü",
+      "price": "200 TL",
+      "brand": "Ray-Ban",
+      "model": "New Wayfarer",
+      "imageUrl": "https://www.ray-ban.com/tr/gunes-gozlugu/new-wayfarer/rb2132-901/8053672823461"
+    },
+    {
+      "id": 42,
+      "category_name": "Spor ve Outdoor",
+      "name": "Sporcu Şapkası",
+      "price": "100 TL",
+      "brand": "Under Armour",
+      "model": "Men's Blitzing 3.0 Cap",
+      "imageUrl": "https://www.underarmour.com.tr/mens-blitzing-30-cap/1328519-001.html"
+    },
+    {
+      "id": 43,
+      "category_name": "Spor ve Outdoor",
+      "name": "Sporcu Bileklik",
+      "price": "50 TL",
+      "brand": "Nike",
+      "model": "Swoosh Wristband",
+      "imageUrl": "https://www.nike.com/tr/t/swoosh-wristband/AO2606-010/AO2606-010"
+    },
+    {
+      "id": 44,
+      "category_name": "Spor ve Outdoor",
+      "name": "Sporcu Su Matarası",
+      "price": "30 TL",
+      "brand": "Hydrapak",
+      "model": "Flask 500ml",
+      "imageUrl": "https://www.hydrapak.com/tr/flask-500ml/"
+    },
+    {
+      "id": 45,
+      "name": "Yüz Temizleme Jeli",
+      "price": "50 TL",
+      "brand": "L'Oréal Paris",
+      "model": "Paris Hydra Genius Nemlendirici Jel",
+      "imageUrl": "https://www.lorealparis.com.tr/hydra-genius-nemlendirici-jel-50ml",
+      "category_name": "Kozmetik ve Kişisel Bakım"
+    },
+    {
+      "id": 46,
+      "name": "Güneş Kremi",
+      "price": "100 TL",
+      "brand": "Mustela",
+      "model": "Mustela Spf 50+ Güneş Kremi",
+      "imageUrl": "https://www.mustela.com.tr/sf50-gunes-kremi-50-ml",
+      "category_name": "Kozmetik ve Kişisel Bakım"
+    },
+    {
+      "id": 47,
+      "name": "Şampuan",
+      "price": "40 TL",
+      "brand": "Dove",
+      "model": "Dove Pure Care Nemlendirici Şampuan",
+      "imageUrl": "https://www.dove.com.tr/pure-care-nemlendirici-sampuan-600-ml",
+      "category_name": "Kozmetik ve Kişisel Bakım"
+    },
+    {
+      "id": 48,
+      "name": "Diş Macunu",
+      "price": "20 TL",
+      "brand": "Colgate",
+      "model": "Colgate Max White Optic White Diş Macunu",
+      "imageUrl": "https://www.colgate.com.tr/max-white-optic-white-dis-macunu",
+      "category_name": "Kozmetik ve Kişisel Bakım"
+    },
+    {
+      "id": 49,
+      "name": "Parfüm",
+      "price": "200 TL",
+      "brand": "Calvin Klein",
+      "model": "CK One",
+      "imageUrl": "https://www.calvinklein.com.tr/ck-one-edt-100-ml",
+      "category_name": "Kozmetik ve Kişisel Bakım"
+    },
+    {
+      "id": 50,
+      "name": "Makyaj Bazı",
+      "price": "70 TL",
+      "brand": "Maybelline New York",
+      "model": "Super Stay Matte Ink Primer",
+      "imageUrl": "https://www.maybelline.com.tr/super-stay-matte-ink-primer",
+      "category_name": "Kozmetik ve Kişisel Bakım"
+    },
+    {
+      "id": 51,
+      "name": "Allık",
+      "price": "60 TL",
+      "brand": "Rimmel London",
+      "model": "Kate Moss Matte Lipstick",
+      "imageUrl": "https://www.rimmellondon.com.tr/kate-moss-matte-lipstick",
+      "category_name": "Kozmetik ve Kişisel Bakım"
+    },
+    {
+      "id": 52,
+      "name": "Maskara",
+      "price": "50 TL",
+      "brand": "Maybelline New York",
+      "model": "Volum'Express The Colossal Big Shot",
+      "imageUrl": "https://www.maybelline.com.tr/volum-express-the-colossal-big-shot",
+      "category_name": "Kozmetik ve Kişisel Bakım"
+    },
+    {
+      "id": 54,
+      "name": "Bebek Bezi",
+      "price": "20 TL/adet",
+      "brand": "Prima",
+      "model": "Prima Premium Care 6 Numara Extra Large 72'li",
+      "imageUrl": "https://www.prima.com.tr/urunler/premium-care-6-numara-extra-large-72-li",
+      "category_name": "Bebek ve Çocuk"
+    },
+    {
+      "id": 55,
+      "name": "Pişik Kremi",
+      "price": "50 TL",
+      "brand": "Mustela",
+      "model": "Mustela Stelatopia Pişik Kremi",
+      "imageUrl": "https://www.mustela.com.tr/pisik-kremi-stelatopia",
+      "category_name": "Bebek ve Çocuk"
+    },
+    {
+      "id": 56,
+      "name": "Şampuan",
+      "price": "30 TL",
+      "brand": "Mustela",
+      "model": "Mustela Stelatopia Şampuan",
+      "imageUrl": "https://www.mustela.com.tr/stelatopia-sampuan",
+      "category_name": "Bebek ve Çocuk"
+    },
+    {
+      "id": 57,
+      "name": "Diş Macunu",
+      "price": "20 TL",
+      "brand": "Johnson's",
+      "model": "Johnson's Baby Diş Macunu",
+      "imageUrl": "https://www.johnsonsbaby.com.tr/urunler/dis-macunu-johnsons-baby-dis-macunu",
+      "category_name": "Bebek ve Çocuk"
+    },
+    {
+      "id": 58,
+      "name": "Mama",
+      "price": "30 TL/100 gram",
+      "brand": "HiPP",
+      "model": "HiPP Organik 1 Bebek Maması",
+      "imageUrl": "https://www.hipp.com.tr/bebek-mamalari/hipp-organik-1-bebek-mamasi",
+      "category_name": "Bebek ve Çocuk"
+    },
+    {
+      "id": 59,
+      "name": "Yatak",
+      "price": "500 TL",
+      "brand": "Nuk",
+      "model": "Nuk Dreamland Bebek Yatağı",
+      "imageUrl": "https://www.nuk.com.tr/bebek-yataklari/nuk-dreamland-bebek-yatagi",
+      "category_name": "Bebek ve Çocuk"
+    },
+    {
+      "id": 60,
+      "name": "Giyim",
+      "price": "100 TL",
+      "brand": "Lcw Kids",
+      "model": "Lcw Kids Bebek Takım",
+      "imageUrl": "https://www.lcwaikiki.com.tr/tr-tr/lcw-kids-bebek-takim-1y-2y-3y-4y-6y-p-291451",
+      "category_name": "Bebek ve Çocuk"
+    },
+    {
+      "id": 61,
+      "name": "Oyuncak",
+      "price": "50 TL",
+      "brand": "Fisher-Price",
+      "model": "Fisher-Price Eğitici Köpekçik",
+      "imageUrl": "https://www.fisher-price.com.tr/egitici-oyuncaklar/egitici-kopekcik",
+      "category_name": "Bebek ve Çocuk"
+    },
+    {
+      "id": 62,
+      "category_name": "Evcil Hayvan",
+      "name": "Kedi Maması",
+      "price": "30 TL/kg",
+      "brand": "Pedigree",
+      "model": "Pedigree Kitten Tavuklu Yavru Kedi Maması",
+      "imageUrl": "https://www.pedigree.com.tr/urunler/kitten-tavuklu-yavru-kedi-mamasi"
+    },
+    {
+      "id": 63,
+      "category_name": "Evcil Hayvan",
+      "name": "Köpek Maması",
+      "price": "40 TL/kg",
+      "brand": "Royal Canin",
+      "model": "Royal Canin Maxi Adult Large Breed Yetişkin Köpek Maması",
+      "imageUrl": "https://www.royalcanin.com.tr/urunler/maxi-adult-large-breed-yetişkin-köpek-maması"
+    },
+    {
+      "id": 64,
+      "category_name": "Evcil Hayvan",
+      "name": "Kedi Kumu",
+      "price": "50 TL/10 kg",
+      "brand": "Perfetto",
+      "model": "Perfetto Bentonit Kedi Kumu",
+      "imageUrl": "https://www.perfetto.com.tr/urunler/bentonit-kedi-kumu"
+    },
+    {
+      "id": 65,
+      "category_name": "Evcil Hayvan",
+      "name": "Köpek Tasması",
+      "price": "100 TL",
+      "brand": "Flexi",
+      "model": "Flexi New Comfort 8m Yeşil Köpek Tasması",
+      "imageUrl": "https://www.flexi.com.tr/urunler/new-comfort-8m-yesil-köpek-tasması"
+    },
+    {
+      "id": 66,
+      "category_name": "Evcil Hayvan",
+      "name": "Kedi Oyuncağı",
+      "price": "20 TL",
+      "brand": "Trixie",
+      "model": "Trixie Toplu Kedi Oyuncağı",
+      "imageUrl": "https://www.trixie.com.tr/urunler/toplu-kedi-oyuncaklari"
+    },
+    {
+      "id": 67,
+      "category_name": "Evcil Hayvan",
+      "name": "Köpek Yatağı",
+      "price": "200 TL",
+      "brand": "Trixie",
+      "model": "Trixie Köpek Yatağı - Büyük Irk",
+      "imageUrl": "https://www.trixie.com.tr/urunler/köpek-yataklari-buyuk-irk"
+    },
+    {
+      "id": 68,
+      "category_name": "Evcil Hayvan",
+      "name": "Kedi Tuvaleti",
+      "price": "150 TL",
+      "brand": "Trixie",
+      "model": "Trixie Kedi Tuvaleti - Büyük Irk",
+      "imageUrl": "https://www.trixie.com.tr/urunler/kedi-tuvaletleri-buyuk-irk"
+    },
+    {
+      "id": 69,
+      "name": "Köpek Bakımı Ürünleri",
+      "category_name": "Evcil Hayvan",
+      "price": "50 TL",
+      "brand": "Bioline",
+      "model": "Bioline Köpek Bakım Seti",
+      "imageUrl": "https://www.bioline.com.tr/urunler/köpek-bakim-setleri"
+    },
+    {
+      "id": 70,
+      "category_name": "Evcil Hayvan",
+      "name": "Kedi Bakımı Ürünleri",
+      "price": "40 TL",
+      "brand": "Bioline",
+      "model": "Bioline Kedi Bakım Seti",
+      "imageUrl": "https://www.bioline.com.tr/urunler/kedi-bakim-setleri"
+    },
+    {
+      "id": 71,
+      "category_name": "Müzik ve Ses",
+      "name": "Bluetooth Kulaklık",
+      "price": "200 TL",
+      "brand": "Samsung",
+      "model": "Galaxy Buds Pro",
+      "imageUrl": "https://www.samsung.com/tr/consumer/mobile/audio/earphones-headphones/galaxy-buds-pro-black-sm-r190nzkatur/"
+    },
+    {
+      "id": 72,
+      "category_name": "Müzik ve Ses",
+      "name": "Hoparlör",
+      "price": "500 TL",
+      "brand": "JBL",
+      "model": "JBL Flip 5",
+      "imageUrl": "https://www.jbl.com/tr/speakers/flip-5.html"
+    },
+    {
+      "id": 73,
+      "category_name": "Müzik ve Ses",
+      "name": "Müzik Seti",
+      "price": "1000 TL",
+      "brand": "Sony",
+      "model": "Sony MHC-V42D",
+      "imageUrl": "https://www.sony.com.tr/tr/consumer/home-audio/hi-fi-systems/mhc-v42d.html"
+    },
+    {
+      "id": 74,
+      "category_name": "Müzik ve Ses",
+      "name": "Piyano",
+      "price": "10.000 TL",
+      "brand": "Yamaha",
+      "model": "Yamaha P-125",
+      "imageUrl": "https://www.yamaha.com/tr/products/musical-instruments/keyboards/digital-pianos/p-125/"
+    },
+    {
+      "id": 75,
+      "category_name": "Müzik ve Ses",
+      "name": "Gitar",
+      "price": "2.000 TL",
+      "brand": "Fender",
+      "model": "Fender Stratocaster",
+      "imageUrl": "https://www.fender.com/en-US/electric-guitars/stratocaster/stratocaster-standard/0141800706.html"
+    },
+    {
+      "id": 76,
+      "category_name": "Müzik ve Ses",
+      "name": "Mikrofon",
+      "price": "500 TL",
+      "brand": "Shure",
+      "model": "Shure SM58",
+      "imageUrl": "https://www.shure.com/en-US/products/microphones/sm58"
+    },
+    {
+      "id": 77,
+      "category_name": "Müzik ve Ses",
+      "name": "Kaset Çalar",
+      "price": "100 TL",
+      "brand": "Sony",
+      "model": "Sony CFD-S07",
+      "imageUrl": "https://www.sony.com.tr/tr/consumer/home-audio/cd-and-cassette-players/cfd-s07.html"
+    },
+    {
+      "id": 78,
+      "category_name": "Müzik ve Ses",
+      "name": "DVD Çalar",
+      "price": "200 TL",
+      "brand": "Panasonic",
+      "model": "Panasonic DVD-S300",
+      "imageUrl": "https://www.panasonic.com.tr/tr/consumer/home-audio/dvd-players/dvd-s300.html"
+    },
+    {
+      "id": 79,
+      "category_name": "Müzik ve Ses",
+      "name": "Müzik Kutusu",
+      "price": "100 TL",
+      "brand": "Disney",
+      "model": "Disney Mickey Mouse Müzik Kutusu",
+      "imageUrl": "https://www.disneystore.com.tr/tr/mickey-mouse-muzik-kutusu-pdp129870665.html"
+    },
+    {
+      "id": 80,
+      "category_name": "Oyun ve Hobi",
+      "name": "Oyun Konsolu",
+      "price": "5.000 TL",
+      "brand": "Sony",
+      "model": "PlayStation 5",
+      "imageUrl": "https://www.sony.com.tr/tr/consumer/electronics/playstation/playstation-5/console/ps5-digital-edition/"
+    },
+    {
+      "id": 81,
+      "category_name": "Oyun ve Hobi",
+      "name": "Oyun Bilgisayarı",
+      "price": "10.000 TL",
+      "brand": "MSI",
+      "model": "MSI Trident 3 10SF-223TR",
+      "imageUrl": "https://www.msi.com/tr/Desktop/Trident-3/Specification"
+    },
+    {
+      "id": 82,
+      "category_name": "Oyun ve Hobi",
+      "name": "Oyun Klavyesi",
+      "price": "1.000 TL",
+      "brand": "Razer",
+      "model": "Razer BlackWidow V3 Pro",
+      "imageUrl": "https://www.razer.com/products/gaming-keyboards/razer-blackwidow-v3-pro"
+    },
+    {
+      "id": 83,
+      "category_name": "Oyun ve Hobi",
+      "name": "Oyun Faresi",
+      "price": "500 TL",
+      "brand": "Logitech",
+      "model": "Logitech G502 Hero",
+      "imageUrl": "https://www.logitech.com.tr/products/gaming-mice/g502-hero.html"
+    },
+    {
+      "id": 84,
+      "category_name": "Oyun ve Hobi",
+      "name": "Oyun Kolu",
+      "price": "2.000 TL",
+      "brand": "Xbox",
+      "model": "Xbox Elite Series 2",
+      "imageUrl": "https://www.xbox.com/en-us/accessories/controllers/elite-wireless-controller-series-2"
+    },
+    {
+      "id": 85,
+      "category_name": "Oyun ve Hobi",
+      "name": "Oyun Tahtası",
+      "price": "1.000 TL",
+      "brand": "Hasbro",
+      "model": "Monopoly",
+      "imageUrl": "https://www.hasbro.com.tr/products/monopoly-classic"
+    },
+    {
+      "id": 86,
+      "category_name": "Oyun ve Hobi",
+      "name": "Oyun Kartları",
+      "price": "500 TL",
+      "brand": "Pazaak",
+      "model": "Star Wars: The Card Game",
+      "imageUrl": "https://www.fantasyflightgames.com/en/products/star-wars-the-card-game/"
+    },
+    {
+      "id": 87,
+      "category_name": "Oyun ve Hobi",
+      "name": "Lego Seti",
+      "price": "2.000 TL",
+      "brand": "Lego",
+      "model": "Star Wars: Millennium Falcon",
+      "imageUrl": "https://www.lego.com/tr-tr/product/millennium-falcon-75192"
+    },
+    {
+      "id": 88,
+      "category_name": "Oyun ve Hobi",
+      "name": "Hobi Malzemesi",
+      "price": "1.000 TL",
+      "brand": "Derwent",
+      "model": "Derwent Graphic Pencil Set",
+      "imageUrl": "https://www.derwent.com/tr/graphic-pencil-set-300"
+    },
+    {
+      "id": 89,
+      "category_name": "Sağlık ve Spor",
+      "name": "Akıllı Saat",
+      "price": "2.000 TL",
+      "brand": "Samsung",
+      "model": "Galaxy Watch4",
+      "imageUrl": "https://www.samsung.com/tr/wearables/galaxy-watch4/"
+    },
+    {
+      "id": 90,
+      "category_name": "Sağlık ve Spor",
+      "name": "Akıllı Bileklik",
+      "price": "1.000 TL",
+      "brand": "Xiaomi",
+      "model": "Mi Band 7",
+      "imageUrl": "https://www.mi.com/tr/mi-band-7/"
+    },
+    {
+      "id": 91,
+      "category_name": "Sağlık ve Spor",
+      "name": "Fitness Bileklik",
+      "price": "500 TL",
+      "brand": "Amazfit",
+      "model": "Amazfit Bip U Pro",
+      "imageUrl": "https://www.amazfit.com/tr/bip-u-pro/"
+    },
+    {
+      "id": 92,
+      "category_name": "Sağlık ve Spor",
+      "name": "Kan Basınç Ölçer",
+      "price": "500 TL",
+      "brand": "Omron",
+      "model": "M2 Basic",
+      "imageUrl": "https://www.omron.com.tr/tr/tr-anasayfa/kan-basinc-olcer/m2-basic/"
+    },
+    {
+      "id": 93,
+      "category_name": "Sağlık ve Spor",
+      "name": "Egzersiz Bisikleti",
+      "price": "10.000 TL",
+      "brand": "Voit",
+      "model": "V-Fit Manyetik Kondisyon Bisikleti",
+      "imageUrl": "https://www.voit.com.tr/v-fit-manyetik-kondisyon-bisikleti/"
+    },
+    {
+      "id": 94,
+      "category_name": "Sağlık ve Spor",
+      "name": "Koşu Bandı",
+      "price": "15.000 TL",
+      "brand": "domyos",
+      "model": "T500",
+      "imageUrl": "https://www.domyos.com.tr/t500-koşu-bandı/"
+    },
+    {
+      "id": 95,
+      "category_name": "Sağlık ve Spor",
+      "name": "Yoga Matı",
+      "price": "200 TL",
+      "brand": "Puma",
+      "model": "Puma Yoga Mat",
+      "imageUrl": "https://www.puma.com/tr/tr-tr/urun/puma-yoga-mat/1103760.html"
+    },
+    {
+      "id": 96,
+      "category_name": "Sağlık ve Spor",
+      "name": "Dumbbell",
+      "price": "500 TL",
+      "brand": "VSpor",
+      "model": "VSpor 25 kg Dumbbell Seti",
+      "imageUrl": "https://www.vspor.com.tr/25-kg-dumbbell-seti/"
+    },
+    {
+      "id": 97,
+      "category_name": "Sağlık ve Spor",
+      "name": "Kettlebell",
+      "price": "700 TL",
+      "brand": "Domyos",
+      "model": "Kettlebell 12 kg",
+      "imageUrl": "https://www.domyos.com.tr/kettlebell-12-kg/"
+    },
+    {
+      "id": 98,
+      "category_name": "Kitap ve Kırtasiye",
+      "name": "Roman",
+      "price": "50 TL",
+      "brand": "Can Yayınları",
+      "model": "Daha İyi Bir Hayat İçin 100 Öneri",
+      "imageUrl": "https://www.canyayinlari.com/urun/daha-iyi-bir-hayat-icin-100-oner"
+    },
+    {
+      "id": 99,
+      "category_name": "Kitap ve Kırtasiye",
+      "name": "Biyografi",
+      "price": "75 TL",
+      "brand": "Everest Yayınları",
+      "model": "Steve Jobs",
+      "imageUrl": "https://www.everestyayinlari.com.tr/urun/steve-jobs"
+    },
+    {
+      "id": 100,
+      "category_name": "Kitap ve Kırtasiye",
+      "name": "Çocuk Kitabı",
+      "price": "25 TL",
+      "brand": "Doğan Egmont Yayıncılık",
+      "model": "Küçük Prens",
+      "imageUrl": "https://www.doganegmontyayincilik.com.tr/urun/kucuk-prens"
+    },
+    {
+      "id": 101,
+      "category_name": "Kitap ve Kırtasiye",
+      "name": "Yabancı Dil Kitabı",
+      "price": "100 TL",
+      "brand": "Cambridge University Press",
+      "model": "English Grammar In Use",
+      "imageUrl": "https://www.cambridge.org/us/academic/subjects/english/english-language-learning/english-grammar-in-use-fifth-edition/9781107663147"
+    },
+    {
+      "id": 102,
+      "category_name": "Kitap ve Kırtasiye",
+      "name": "Kırtasiye Malzemesi",
+      "price": "10 TL",
+      "brand": "Faber-Castell",
+      "model": "Grip 2011 Kalem",
+      "imageUrl": "https://www.faber-castell.com.tr/urun/grip-2011-kalem"
+    },
+    {
+      "id": 103,
+      "category_name": "Kitap ve Kırtasiye",
+      "name": "Kırtasiye Malzemesi",
+      "price": "20 TL",
+      "brand": "Stabilo",
+      "model": "Triplus Fineliner Kalem",
+      "imageUrl": "https://www.stabilo.com/tr/tr/urun/triplus-fineliner-kalem"
+    },
+    {
+      "id": 104,
+      "category_name": "Kitap ve Kırtasiye",
+      "name": "Kırtasiye Malzemesi",
+      "price": "50 TL",
+      "brand": "Efco",
+      "model": "E-Color Kalem",
+      "imageUrl": "https://www.efco.com.tr/urun/e-color-kalem"
+    },
+    {
+      "id": 105,
+      "category_name": "Kitap ve Kırtasiye",
+      "name": "Kırtasiye Malzemesi",
+      "price": "10 TL",
+      "brand": "Muji",
+      "model": "Silgi",
+      "imageUrl": "https://www.muji.com.tr/urun/silgi"
+    },
+    {
+      "id": 106,
+      "category_name": "Kitap ve Kırtasiye",
+      "name": "Kırtasiye Malzemesi",
+      "price": "20 TL",
+      "brand": "Kağıttan",
+      "model": "A4 Fotokopi Kağıdı",
+      "imageUrl": "https://www.kagittan.com.tr/urun/a4-fotokopi-kagit-80-gr"
+    },
+    {
+      "id": 107,
+      "category_name": "Ev Aletleri",
+      "name": "Buzdolabı",
+      "price": "10.000 TL",
+      "brand": "Samsung",
+      "model": "RT6000TWW",
+      "imageUrl": "https://www.samsung.com/tr/home-appliances/refrigerators/rt6000tww"
+    },
+    {
+      "id": 108,
+      "category_name": "Ev Aletleri",
+      "name": "Çamaşır Makinesi",
+      "price": "7.000 TL",
+      "brand": "Arçelik",
+      "model": "9124 HSY",
+      "imasgeUrl": "https://www.arcelik.com.tr/bulasik-makinesi/9124-hsy"
+    },
+    {
+      "id": 109,
+      "category_name": "Ev Aletleri",
+      "name": "Bulaşık Makinesi",
+      "price": "5.000 TL",
+      "brand": "Beko",
+      "model": "BKY 3506 I",
+      "imageUrl": "https://www.beko.com.tr/bulasik-makinesi/bky-3506-i"
+    },
+    {
+      "id": 110,
+      "category_name": "Ev Aletleri",
+      "name": "Ankastre Fırın",
+      "price": "3.000 TL",
+      "brand": "Siemens",
+      "model": "EO6C6PO12E",
+      "imageUrl": "https://www.siemens-home.com.tr/tr/ev-aletleri/firinlar/elektrikli-firinlar/eo6c6po12e"
+    },
+    {
+      "id": 111,
+      "category_name": "Ev Aletleri",
+      "name": "Ankastre Ocak",
+      "price": "2.000 TL",
+      "brand": "Bosch",
+      "model": "HGN331W1T",
+      "imageUrl": "https://www.bosch-home.com.tr/tr/ev-aletleri/ocak-ankastre-ocak/hgn331w1t"
+    },
+    {
+      "id": 112,
+      "category_name": "Ev Aletleri",
+      "name": "Ankastre Davlumbaz",
+      "price": "1.500 TL",
+      "brand": "Arçelik",
+      "model": "P 18 YEI",
+      "imageUrl": "https://www.arcelik.com.tr/ankastre/davlumbaz/p-18-yei"
+    },
+    {
+      "id": 113,
+      "category_name": "Ev Aletleri",
+      "name": "Elektrik Süpürgesi",
+      "price": "1.000 TL",
+      "brand": "Rowenta",
+      "model": "Ro8371",
+      "imageUrl": "https://www.rowenta.com.tr/elektrik-supurgeleri/ro8371"
+    },
+    {
+      "id": 114,
+      "category_name": "Ev Aletleri",
+      "name": "Çay Makinesi",
+      "price": "500 TL",
+      "brand": "Arzum",
+      "model": "K3282",
+      "imageUrl": "https://www.arzum.com.tr/cay-makinasi/k3282"
+    },
+    {
+      "id": 115,
+      "category_name": "Ev Aletleri",
+      "name": "Tost Makinesi",
+      "price": "300 TL",
+      "brand": "Arzum",
+      "model": "K3008",
+      "imageUrl": "https://www.arzum.com.tr/tost-makinesi/k3008"
+    }
+  ]
+}

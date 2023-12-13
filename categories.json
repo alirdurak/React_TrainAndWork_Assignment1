@@ -1,0 +1,69 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Telefonlar",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0274/1521/products/12820_2048x2048.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bilgisayar",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0274/1521/products/12821_2048x2048.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Giyim",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0274/1521/products/12822_2048x2048.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ev ve Yaşam",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0274/1521/products/12823_2048x2048.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Spor ve Outdoor",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0274/1521/products/12824_2048x2048.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Kozmetik ve Kişisel Bakım",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0274/1521/products/12825_2048x2048.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Bebek ve Çocuk",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0274/1521/products/12826_2048x2048.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Evcil Hayvan",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0274/1521/products/12827_2048x2048.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Müzik ve Ses",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0274/1521/products/12828_2048x2048.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Oyun ve Hobi",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0274/1521/products/12829_2048x2048.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Sağlık ve Spor",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0274/1521/products/12830_2048x2048.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Kitap ve Kırtasiye",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0274/1521/products/12831_2048x2048.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Ev Aletleri",
+      "imageUrl": "https://cdn.shopify.com"
+    }
+  ]
+}

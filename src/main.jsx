@@ -1,13 +1,16 @@
-import * as ReactDOM from "react-dom";
+import * as ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import App from "./App";
 import User from "./pages/user";
-import Login from "./pages/login";
+import Login from "./pages/Login";
 import Signup from "./pages/Signup";
 import Products from "./pages/Products";
 import ProductDetail from "./pages/ProductDetail";
 import Basket from "./pages/Basket";
 import Root from "./pages/Root";
+import "bootstrap/dist/css/bootstrap.min.css";
+import { Provider } from "react-redux";
+import store from "./redux/store";
+
 const router = createBrowserRouter([
   {
     path: "/",
@@ -41,7 +44,7 @@ const router = createBrowserRouter([
 ]);
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-  <App>
-    <RouterProvider router={router} />
-  </App>
+  <Provider store={store}>
+    <RouterProvider router={router}></RouterProvider>
+  </Provider>
 );

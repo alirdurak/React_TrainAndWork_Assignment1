@@ -1,0 +1,12 @@
+.link:active {
+  background-color: none;
+  color: white;
+}
+.link:focus {
+  color: white;
+  background-color: none;
+}
+.link {
+  background-color: none;
+  text-decoration: none;
+}

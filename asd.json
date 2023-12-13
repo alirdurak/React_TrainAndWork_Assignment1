@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "username": "johndoe",
+    "password": "123456",
+    "email": "johndoe@example.com",
+    "name": "John Doe",
+    "surname": "Doe",
+    "phone": "0555 555 55 55",
+    "address": "İstanbul, Türkiye",
+    "createdAt": "2023-07-20T12:00:00.000Z",
+    "updatedAt": "2023-07-20T12:00:00.000Z",
+    "favorited_items": []
+  },
+  {
+    "id": 2,
+    "username": "janedoe",
+    "password": "123456",
+    "email": "janedoe@example.com",
+    "name": "Jane Doe",
+    "surname": "Doe",
+    "phone": "0555 555 55 56",
+    "address": "Ankara, Türkiye",
+    "createdAt": "2023-07-20T12:00:00.000Z",
+    "updatedAt": "2023-07-20T12:00:00.000Z",
+    "favorited_items": []
+  }
+]

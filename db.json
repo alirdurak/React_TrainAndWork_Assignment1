@@ -1,0 +1,1150 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Telefonlar",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1680534423309-55339d79d98d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 2,
+      "name": "Bilgisayar",
+      "imageUrl": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 3,
+      "name": "Giyim",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1676031940533-8f1ac6a07268?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 4,
+      "name": "Ev ve Yaşam",
+      "imageUrl": "https://images.unsplash.com/photo-1492707317997-96ae440f1878?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 5,
+      "name": "Spor ve Outdoor",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1677002240252-af3f88114efc?q=80&w=1125&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 6,
+      "name": "Kozmetik ve Kişisel Bakım",
+      "imageUrl": "https://images.unsplash.com/photo-1590439471364-192aa70c0b53?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 7,
+      "name": "Bebek ve Çocuk",
+      "imageUrl": "https://images.unsplash.com/photo-1543342384-1f1350e27861?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 8,
+      "name": "Evcil Hayvan",
+      "imageUrl": "https://images.unsplash.com/photo-1530041539828-114de669390e?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 9,
+      "name": "Müzik ve Ses",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1682125816787-4db071ef2da8?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 10,
+      "name": "Oyun ve Hobi",
+      "imageUrl": "https://images.unsplash.com/photo-1588591795084-1770cb3be374?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 11,
+      "name": "Sağlık ve Spor",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1663045538537-f0f9787e8832?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 12,
+      "name": "Kitap ve Kırtasiye",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1677526779343-21f07edee092?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 13,
+      "name": "Ev Aletleri",
+      "imageUrl": "https://images.unsplash.com/photo-1593853761096-d0423b545cf9?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "category_name": "Telefonlar",
+      "name": "iPhone 14 Pro Max",
+      "price": "12.999 TL",
+      "brand": "Apple",
+      "model": "iPhone 14 Pro Max",
+      "imageUrl": "https://images.unsplash.com/photo-1693818711490-64428e61062d?q=80&w=1177&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "2",
+      "category_name": "Telefonlar",
+      "name": "Samsung Galaxy S23 Ultra",
+      "price": "11.999 TL",
+      "brand": "Samsung",
+      "model": "Galaxy S23 Ultra",
+      "imageUrl": "https://images.unsplash.com/photo-1678958274412-563119ec18ab?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "3",
+      "category_name": "Telefonlar",
+      "name": "Xiaomi 12 Pro",
+      "price": "10.999 TL",
+      "brand": "Xiaomi",
+      "model": "12 Pro",
+      "imageUrl": "https://images.unsplash.com/photo-1598327106026-d9521da673d1?q=80&w=927&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "4",
+      "category_name": "Telefonlar",
+      "name": "Oppo Find X5 Pro",
+      "price": "9.999 TL",
+      "brand": "Oppo",
+      "model": "Find X5 Pro",
+      "imageUrl": "https://images.unsplash.com/photo-1649859398021-afbfe80e83b9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "5",
+      "category_name": "Telefonlar",
+      "name": "Huawei P50 Pro",
+      "price": "8.999 TL",
+      "brand": "Huawei",
+      "model": "P50 Pro",
+      "imageUrl": "https://images.unsplash.com/photo-1591884539376-42f1f0dc65c2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "6",
+      "category_name": "Telefonlar",
+      "name": "iPhone 14 Pro",
+      "price": "11.499 TL",
+      "brand": "Apple",
+      "model": "iPhone 14 Pro",
+      "imageUrl": "https://images.unsplash.com/photo-1677144646095-ecd95d06cd71?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "7",
+      "category_name": "Telefonlar",
+      "name": "Samsung Galaxy S23+",
+      "price": "10.499 TL",
+      "brand": "Samsung",
+      "model": "Galaxy S23+",
+      "imageUrl": "https://images.unsplash.com/photo-1688762473728-3a20023e1fe4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "8",
+      "category_name": "Telefonlar",
+      "name": "Xiaomi 12",
+      "price": "9.499 TL",
+      "brand": "Xiaomi",
+      "model": "12",
+      "imageUrl": "https://images.unsplash.com/photo-1598327106026-d9521da673d1?q=80&w=927&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "9",
+      "category_name": "Telefonlar",
+      "name": "Oppo Find X5",
+      "price": "8.499 TL",
+      "brand": "Oppo",
+      "model": "Find X5",
+      "imageUrl": "https://images.unsplash.com/photo-1644982649363-fae51da44eac?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "10",
+      "category_name": "Telefonlar",
+      "name": "Huawei P50",
+      "price": "7.499 TL",
+      "brand": "Huawei",
+      "model": "P50",
+      "imageUrl": "https://images.unsplash.com/photo-1587133454235-762b65c9f5c0?q=80&w=953&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "11",
+      "category_name": "Bilgisayar",
+      "name": "MacBook Air M2",
+      "price": "16.999 TL",
+      "brand": "Apple",
+      "model": "MacBook Air M2",
+      "imageUrl": "https://images.unsplash.com/photo-1659135890084-930731031f40?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "12",
+      "category_name": "Bilgisayar",
+      "name": "Dell XPS 13 2-in-1",
+      "price": "21.999 TL",
+      "brand": "Dell",
+      "model": "XPS 13 2-in-1",
+      "imageUrl": "https://images.unsplash.com/photo-1593642634402-b0eb5e2eebc9?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "13",
+      "category_name": "Bilgisayar",
+      "name": "HP Spectre x360 16",
+      "price": "24.999 TL",
+      "brand": "HP",
+      "model": "Spectre x360 16",
+      "imageUrl": "https://images.unsplash.com/photo-1658312226966-29bd4e77c62c?q=80&w=927&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "14",
+      "category_name": "Bilgisayar",
+      "name": "Lenovo Yoga 9i 14",
+      "price": "22.999 TL",
+      "brand": "Lenovo",
+      "model": "Yoga 9i 14",
+      "imageUrl": "https://images.unsplash.com/photo-1588620353536-ded12e518f45?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "15",
+      "category_name": "Bilgisayar",
+      "name": "Asus ZenBook 14X OLED",
+      "price": "20.999 TL",
+      "brand": "Asus",
+      "model": "ZenBook 14X OLED",
+      "imageUrl": "https://images.unsplash.com/photo-1636211991297-6071abc2cec1?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "16",
+      "category_name": "Bilgisayar",
+      "name": "Acer Swift X",
+      "price": "18.999 TL",
+      "brand": "Acer",
+      "model": "Swift X",
+      "imageUrl": "https://images.unsplash.com/photo-1522198763288-96e9f39904af?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "17",
+      "category_name": "Bilgisayar",
+      "name": "MSI Prestige 14",
+      "price": "17.999 TL",
+      "brand": "MSI",
+      "model": "Prestige 14",
+      "imageUrl": "https://images.unsplash.com/photo-1617294864705-eaf3c911259f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "18",
+      "category_name": "Bilgisayar",
+      "name": "Honor MagicBook 14",
+      "price": "15.999 TL",
+      "brand": "Honor",
+      "model": "MagicBook 14",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "19",
+      "category_name": "Giyim",
+      "name": "Erkek Tişört",
+      "price": "100 TL",
+      "brand": "Koton",
+      "model": "Kot Siyah Tişört",
+      "imageUrl": "https://images.unsplash.com/photo-1502389614483-e475fc34407e?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "20",
+      "category_name": "Giyim",
+      "name": "Kadın Elbise",
+      "price": "200 TL",
+      "brand": "Zara",
+      "model": "Zara Siyah Elbise",
+      "imageUrl": "https://images.unsplash.com/photo-1613294787480-77fd539bb7f0?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "21",
+      "category_name": "Giyim",
+      "name": "Çocuk Ayakkabısı",
+      "price": "150 TL",
+      "brand": "Nike",
+      "model": "Nike Air Max 270",
+      "imageUrl": "https://images.unsplash.com/photo-1562687782-9f2fd422a334?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "22",
+      "category_name": "Giyim",
+      "name": "Erkek Gömlek",
+      "price": "120 TL",
+      "brand": "Lcw",
+      "model": "Lcw Slim Fit Keten Gömlek",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1690366917352-3bd8bc0a0761?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "23",
+      "category_name": "Giyim",
+      "name": "Kadın Pantolon",
+      "price": "150 TL",
+      "brand": "Defacto",
+      "model": "Defacto Slim Fit Jean Pantolon",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1665664652383-2308d742943c?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "24",
+      "category_name": "Giyim",
+      "name": "Bebek Giyim Seti",
+      "price": "250 TL",
+      "brand": "Bebek Giyim",
+      "model": "Bebek Giyim Seti",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1661727662570-88239d7af6e4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "25",
+      "category_name": "Giyim",
+      "name": "Erkek Ayakkabısı",
+      "price": "200 TL",
+      "brand": "Adidas",
+      "model": "Adidas Superstar",
+      "imageUrl": "https://images.unsplash.com/photo-1593287073863-c992914cb3e3?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "26",
+      "category_name": "Giyim",
+      "name": "Kadın Etek",
+      "price": "170 TL",
+      "brand": "Bershka",
+      "model": "Bershka Siyah Etek",
+      "imageUrl": "https://images.unsplash.com/photo-1626778723231-b8701a5b89d7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTR8fGJsYWNrJTIwbG9uZyUyMHNraXJ0fGVufDB8fDB8fHww"
+    },
+    {
+      "id": "270",
+      "category_name": "Giyim",
+      "name": "Çocuk Kazak",
+      "price": "100 TL",
+      "brand": "LCW",
+      "model": "LCW Basic Uzun Kollu Kız Çocuk Triko Kazak",
+      "imageUrl": "https://images.unsplash.com/photo-1698097574764-bc84ee2110ae?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "27",
+      "category_name": "Ev ve Yaşam",
+      "name": "Çamaşır Makinesi",
+      "price": "10.000 TL",
+      "brand": "Arçelik",
+      "model": "9100 M",
+      "imageUrl": "https://images.unsplash.com/photo-1626806819282-2c1dc01a5e0c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "28",
+      "category_name": "Ev ve Yaşam",
+      "name": "Buzdolabı",
+      "price": "15.000 TL",
+      "brand": "Samsung",
+      "model": "RT6000H",
+      "imageUrl": "https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "29",
+      "category_name": "Ev ve Yaşam",
+      "name": "Televizyon",
+      "price": "20.000 TL",
+      "brand": "LG",
+      "model": "C1",
+      "imageUrl": "https://images.unsplash.com/photo-1593784991095-a205069470b6?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "30",
+      "category_name": "Ev ve Yaşam",
+      "name": "Yatak Odası Takımı",
+      "price": "30.000 TL",
+      "brand": "İstikbal",
+      "model": "Enza Sona",
+      "imageUrl": "https://images.unsplash.com/photo-1566665797739-1674de7a421a?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "31",
+      "category_name": "Ev ve Yaşam",
+      "name": "Yatak Örtüsü Seti",
+      "price": "2.000 TL",
+      "brand": "Karaca Home",
+      "model": "Livia",
+      "imageUrl": "https://images.unsplash.com/photo-1672975506913-156aa3fee594?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "32",
+      "category_name": "Ev ve Yaşam",
+      "name": "Halıfleks",
+      "price": "5.000 TL",
+      "brand": "Aksu",
+      "model": "Aksu Selina",
+      "imageUrl": "https://images.unsplash.com/photo-1594922234647-4ade6282c369?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "33",
+      "category_name": "Ev ve Yaşam",
+      "name": "Pike Takımı",
+      "price": "1.500 TL",
+      "brand": "Taç",
+      "model": "Melek",
+      "imageUrl": "https://images.unsplash.com/photo-1601880348117-25c1127a95df?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "34",
+      "category_name": "Ev ve Yaşam",
+      "name": "Mutfak Robotu",
+      "price": "3.000 TL",
+      "brand": "Arçelik",
+      "model": "K 1270",
+      "imageUrl": "https://images.unsplash.com/photo-1585515320310-259814833e62?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "35",
+      "category_name": "Ev ve Yaşam",
+      "name": "Tost Makinesi",
+      "price": "500 TL",
+      "brand": "Tefal",
+      "model": "Toast Expert",
+      "imageUrl": "https://images.unsplash.com/photo-1613221699807-4940ba9b83f4?q=80&w=1085&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "36",
+      "category_name": "Spor ve Outdoor",
+      "name": "Koşu Ayakkabısı",
+      "price": "500 TL",
+      "brand": "Nike",
+      "model": "Air Zoom Pegasus 39",
+      "imageUrl": "https://images.unsplash.com/photo-1521093470119-a3acdc43374a?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "37",
+      "category_name": "Spor ve Outdoor",
+      "name": "Yürüyüş Ayakkabısı",
+      "price": "400 TL",
+      "brand": "Adidas",
+      "model": "FortaRun X",
+      "imageUrl": "https://images.unsplash.com/photo-1505248254168-1de4e1abfa78?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "38",
+      "category_name": "Spor ve Outdoor",
+      "name": "Basketbol Ayakkabısı",
+      "price": "800 TL",
+      "brand": "Under Armour",
+      "model": "Curry Flow 9",
+      "imageUrl": "https://images.unsplash.com/photo-1575456456278-936c89ccdb7b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "39",
+      "category_name": "Spor ve Outdoor",
+      "name": "Futbol Ayakkabısı",
+      "price": "1000 TL",
+      "brand": "Nike",
+      "model": "Phantom GT2 Elite Dynamic Fit FG",
+      "imageUrl": "https://images.unsplash.com/photo-1612387604874-e75a5820637a?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "40",
+      "category_name": "Spor ve Outdoor",
+      "name": "Tenis Ayakkabısı",
+      "price": "700 TL",
+      "brand": "Adidas",
+      "model": "Adidas Adizero Ubersonic 4",
+      "imageUrl": "https://images.unsplash.com/photo-1620794341491-76be6eeb6946?q=80&w=994&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "41",
+      "category_name": "Spor ve Outdoor",
+      "name": "Sporcu Gözlüğü",
+      "price": "200 TL",
+      "brand": "Ray-Ban",
+      "model": "New Wayfarer",
+      "imageUrl": "https://images.unsplash.com/photo-1526323231297-86ea84cf2647?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "42",
+      "category_name": "Spor ve Outdoor",
+      "name": "Sporcu Şapkası",
+      "price": "100 TL",
+      "brand": "Under Armour",
+      "model": "Men's Blitzing 3.0 Cap",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1661772500173-5987af8aaf46?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "43",
+      "category_name": "Spor ve Outdoor",
+      "name": "Sporcu Bileklik",
+      "price": "50 TL",
+      "brand": "Nike",
+      "model": "Swoosh Wristband",
+      "imageUrl": "https://images.unsplash.com/photo-1495400418311-f061d1a0217b?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "44",
+      "category_name": "Spor ve Outdoor",
+      "name": "Sporcu Su Matarası",
+      "price": "30 TL",
+      "brand": "Hydrapak",
+      "model": "Flask 500ml",
+      "imageUrl": "https://images.unsplash.com/photo-1488917577739-61048c7940ff?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "45",
+      "name": "Yüz Temizleme Jeli",
+      "price": "50 TL",
+      "brand": "L'Oréal Paris",
+      "model": "Paris Hydra Genius Nemlendirici Jel",
+      "imageUrl": "https://images.unsplash.com/photo-1633158829607-291f6a0d2eff?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category_name": "Kozmetik ve Kişisel Bakım"
+    },
+    {
+      "id": "46",
+      "name": "Güneş Kremi",
+      "price": "100 TL",
+      "brand": "Mustela",
+      "model": "Mustela Spf 50+ Güneş Kremi",
+      "imageUrl": "https://images.unsplash.com/photo-1521223344201-d169129f7b7d?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category_name": "Kozmetik ve Kişisel Bakım"
+    },
+    {
+      "id": "47",
+      "name": "Şampuan",
+      "price": "40 TL",
+      "brand": "Dove",
+      "model": "Dove Pure Care Nemlendirici Şampuan",
+      "imageUrl": "https://images.unsplash.com/photo-1526947425960-945c6e72858f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category_name": "Kozmetik ve Kişisel Bakım"
+    },
+    {
+      "id": "48",
+      "name": "Diş Macunu",
+      "price": "20 TL",
+      "brand": "Colgate",
+      "model": "Colgate Max White Optic White Diş Macunu",
+      "imageUrl": "https://images.unsplash.com/photo-1610216690558-4aee861f4ab3?q=80&w=1160&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category_name": "Kozmetik ve Kişisel Bakım"
+    },
+    {
+      "id": "49",
+      "name": "Parfüm",
+      "price": "200 TL",
+      "brand": "Calvin Klein",
+      "model": "CK One",
+      "imageUrl": "https://images.unsplash.com/photo-1587017539504-67cfbddac569?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category_name": "Kozmetik ve Kişisel Bakım"
+    },
+    {
+      "id": "50",
+      "name": "Makyaj Bazı",
+      "price": "70 TL",
+      "brand": "Maybelline New York",
+      "model": "Super Stay Matte Ink Primer",
+      "imageUrl": "https://images.unsplash.com/photo-1620464003286-a5b0d79f32c2?q=80&w=1036&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category_name": "Kozmetik ve Kişisel Bakım"
+    },
+    {
+      "id": "51",
+      "name": "Allık",
+      "price": "60 TL",
+      "brand": "Rimmel London",
+      "model": "Kate Moss Matte Lipstick",
+      "imageUrl": "https://images.unsplash.com/photo-1590156352673-988f4503c7e3?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category_name": "Kozmetik ve Kişisel Bakım"
+    },
+    {
+      "id": "52",
+      "name": "Maskara",
+      "price": "50 TL",
+      "brand": "Maybelline New York",
+      "model": "Volum'Express The Colossal Big Shot",
+      "imageUrl": "https://images.unsplash.com/photo-1619406266880-7e130b6c65c0?q=80&w=985&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category_name": "Kozmetik ve Kişisel Bakım"
+    },
+    {
+      "id": "54",
+      "name": "Bebek Bezi",
+      "price": "20 TL/adet",
+      "brand": "Prima",
+      "model": "Prima Premium Care 6 Numara Extra Large 72'li",
+      "imageUrl": "https://images.unsplash.com/photo-1505679428249-ebe9559320a0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category_name": "Bebek ve Çocuk"
+    },
+    {
+      "id": "55",
+      "name": "Pişik Kremi",
+      "price": "50 TL",
+      "brand": "Mustela",
+      "model": "Mustela Stelatopia Pişik Kremi",
+      "imageUrl": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category_name": "Bebek ve Çocuk"
+    },
+    {
+      "id": "56",
+      "name": "Şampuan",
+      "price": "30 TL",
+      "brand": "Mustela",
+      "model": "Mustela Stelatopia Şampuan",
+      "imageUrl": "https://images.unsplash.com/photo-1475178278683-8c225ae5ec3e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category_name": "Bebek ve Çocuk"
+    },
+    {
+      "id": "57",
+      "name": "Diş Macunu",
+      "price": "20 TL",
+      "brand": "Johnson's",
+      "model": "Johnson's Baby Diş Macunu",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1664544673658-538da91c8293?q=80&w=975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category_name": "Bebek ve Çocuk"
+    },
+    {
+      "id": "58",
+      "name": "Mama",
+      "price": "30 TL/100 gram",
+      "brand": "HiPP",
+      "model": "HiPP Organik 1 Bebek Maması",
+      "imageUrl": "https://images.unsplash.com/photo-1550461716-dbf266b2a8a7?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category_name": "Bebek ve Çocuk"
+    },
+    {
+      "id": "59",
+      "name": "Yatak",
+      "price": "500 TL",
+      "brand": "Nuk",
+      "model": "Nuk Dreamland Bebek Yatağı",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1684189486872-e77cd1776d29?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category_name": "Bebek ve Çocuk"
+    },
+    {
+      "id": "60",
+      "name": "Giyim",
+      "price": "100 TL",
+      "brand": "Lcw Kids",
+      "model": "Lcw Kids Bebek Takım",
+      "imageUrl": "https://images.unsplash.com/photo-1522771930-78848d9293e8?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category_name": "Bebek ve Çocuk"
+    },
+    {
+      "id": "61",
+      "name": "Oyuncak",
+      "price": "50 TL",
+      "brand": "Fisher-Price",
+      "model": "Fisher-Price Eğitici Köpekçik",
+      "imageUrl": "https://images.unsplash.com/photo-1696208734924-ba88c29ddad4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category_name": "Bebek ve Çocuk"
+    },
+    {
+      "id": "62",
+      "category_name": "Evcil Hayvan",
+      "name": "Kedi Maması",
+      "price": "30 TL/kg",
+      "brand": "Pedigree",
+      "model": "Pedigree Kitten Tavuklu Yavru Kedi Maması",
+      "imageUrl": "https://images.unsplash.com/photo-1616668983570-a971956d8928?q=80&w=986&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "63",
+      "category_name": "Evcil Hayvan",
+      "name": "Köpek Maması",
+      "price": "40 TL/kg",
+      "brand": "Royal Canin",
+      "model": "Royal Canin Maxi Adult Large Breed Yetişkin Köpek Maması",
+      "imageUrl": "https://images.unsplash.com/photo-1608408891486-f5cade977d19?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "64",
+      "category_name": "Evcil Hayvan",
+      "name": "Kedi Kumu",
+      "price": "50 TL/10 kg",
+      "brand": "Perfetto",
+      "model": "Perfetto Bentonit Kedi Kumu",
+      "imageUrl": "https://images.unsplash.com/photo-1601758065893-25c11bfa69b5?q=80&w=1039&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "65",
+      "category_name": "Evcil Hayvan",
+      "name": "Köpek Tasması",
+      "price": "100 TL",
+      "brand": "Flexi",
+      "model": "Flexi New Comfort 8m Yeşil Köpek Tasması",
+      "imageUrl": "https://images.unsplash.com/photo-1586671267731-da2cf3ceeb80?q=80&w=989&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "66",
+      "category_name": "Evcil Hayvan",
+      "name": "Kedi Oyuncağı",
+      "price": "20 TL",
+      "brand": "Trixie",
+      "model": "Trixie Toplu Kedi Oyuncağı",
+      "imageUrl": "https://images.unsplash.com/photo-1615332591802-dddd86b35238?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "67",
+      "category_name": "Evcil Hayvan",
+      "name": "Köpek Yatağı",
+      "price": "200 TL",
+      "brand": "Trixie",
+      "model": "Trixie Köpek Yatağı - Büyük Irk",
+      "imageUrl": "https://images.unsplash.com/photo-1581888227599-779811939961?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "68",
+      "category_name": "Evcil Hayvan",
+      "name": "Kedi Tuvaleti",
+      "price": "150 TL",
+      "brand": "Trixie",
+      "model": "Trixie Kedi Tuvaleti - Büyük Irk",
+      "imageUrl": "https://images.unsplash.com/photo-1586943126996-f29fa56e1c53?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "69",
+      "name": "Köpek Bakımı Ürünleri",
+      "category_name": "Evcil Hayvan",
+      "price": "50 TL",
+      "brand": "Bioline",
+      "model": "Bioline Köpek Bakım Seti",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1664297694687-570b7f392906?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "70",
+      "category_name": "Evcil Hayvan",
+      "name": "Kedi Bakımı Ürünleri",
+      "price": "40 TL",
+      "brand": "Bioline",
+      "model": "Bioline Kedi Bakım Seti",
+      "imageUrl": "https://images.unsplash.com/photo-1494256997604-768d1f608cac?q=80&w=929&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "71",
+      "category_name": "Müzik ve Ses",
+      "name": "Bluetooth Kulaklık",
+      "price": "200 TL",
+      "brand": "Samsung",
+      "model": "Galaxy Buds Pro",
+      "imageUrl": "https://images.unsplash.com/photo-1615512064903-0eb7d620bf45?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "72",
+      "category_name": "Müzik ve Ses",
+      "name": "Hoparlör",
+      "price": "500 TL",
+      "brand": "JBL",
+      "model": "JBL Flip 5",
+      "imageUrl": "https://images.unsplash.com/photo-1612552441157-a0efa6d4f15c?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "73",
+      "category_name": "Müzik ve Ses",
+      "name": "Müzik Seti",
+      "price": "1000 TL",
+      "brand": "Sony",
+      "model": "Sony MHC-V42D",
+      "imageUrl": "https://images.unsplash.com/photo-1531104985437-603d6490e6d4?q=80&w=1139&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "74",
+      "category_name": "Müzik ve Ses",
+      "name": "Piyano",
+      "price": "10.000 TL",
+      "brand": "Yamaha",
+      "model": "Yamaha P-125",
+      "imageUrl": "https://images.unsplash.com/photo-1670592969421-966be74dd2c0?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "75",
+      "category_name": "Müzik ve Ses",
+      "name": "Gitar",
+      "price": "2.000 TL",
+      "brand": "Fender",
+      "model": "Fender Stratocaster",
+      "imageUrl": "https://images.unsplash.com/photo-1557855684-8aa6f40997df?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "76",
+      "category_name": "Müzik ve Ses",
+      "name": "Mikrofon",
+      "price": "500 TL",
+      "brand": "Shure",
+      "model": "Shure SM58",
+      "imageUrl": "https://images.unsplash.com/photo-1660675588397-a17437d2ba31?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "77",
+      "category_name": "Müzik ve Ses",
+      "name": "Kaset Çalar",
+      "price": "100 TL",
+      "brand": "Sony",
+      "model": "Sony CFD-S07",
+      "imageUrl": "https://images.unsplash.com/photo-1611001716885-b3402558a62b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "78",
+      "category_name": "Müzik ve Ses",
+      "name": "DVD Çalar",
+      "price": "200 TL",
+      "brand": "Panasonic",
+      "model": "Panasonic DVD-S300",
+      "imageUrl": "https://images.unsplash.com/photo-1589048831097-38f6f2db3b48?q=80&w=1012&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 79,
+      "category_name": "Müzik ve Ses",
+      "name": "Müzik Kutusu",
+      "price": "100 TL",
+      "brand": "Disney",
+      "model": "Disney Mickey Mouse Müzik Kutusu",
+      "imageUrl": "https://images.unsplash.com/photo-1564509845860-f5572476cd40?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "80",
+      "category_name": "Oyun ve Hobi",
+      "name": "Oyun Konsolu",
+      "price": "5.000 TL",
+      "brand": "Sony",
+      "model": "PlayStation 5",
+      "imageUrl": "https://images.unsplash.com/photo-1607853202273-797f1c22a38e?q=80&w=927&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "81",
+      "category_name": "Oyun ve Hobi",
+      "name": "Oyun Bilgisayarı",
+      "price": "10.000 TL",
+      "brand": "MSI",
+      "model": "MSI Trident 3 10SF-223TR",
+      "imageUrl": "https://images.unsplash.com/photo-1587202372583-49330a15584d?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "82",
+      "category_name": "Oyun ve Hobi",
+      "name": "Oyun Klavyesi",
+      "price": "1.000 TL",
+      "brand": "Razer",
+      "model": "Razer BlackWidow V3 Pro",
+      "imageUrl": "https://images.unsplash.com/photo-1600035919823-fb13e3a9f085?q=80&w=1036&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "83",
+      "category_name": "Oyun ve Hobi",
+      "name": "Oyun Faresi",
+      "price": "500 TL",
+      "brand": "Logitech",
+      "model": "Logitech G502 Hero",
+      "imageUrl": "https://images.unsplash.com/photo-1637555117015-a479c2d19c0a?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "84",
+      "category_name": "Oyun ve Hobi",
+      "name": "Oyun Kolu",
+      "price": "2.000 TL",
+      "brand": "Xbox",
+      "model": "Xbox Elite Series 2",
+      "imageUrl": "https://images.unsplash.com/photo-1602610423018-9b72909e9f80?q=80&w=986&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "85",
+      "category_name": "Oyun ve Hobi",
+      "name": "Oyun Tahtası",
+      "price": "1.000 TL",
+      "brand": "Hasbro",
+      "model": "Monopoly",
+      "imageUrl": "https://images.unsplash.com/photo-1589804845133-49b5e06cc415?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "86",
+      "category_name": "Oyun ve Hobi",
+      "name": "Oyun Kartları",
+      "price": "500 TL",
+      "brand": "Pazaak",
+      "model": "Star Wars: The Card Game",
+      "imageUrl": "https://images.unsplash.com/photo-1659480140212-090e6e576080?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "87",
+      "category_name": "Oyun ve Hobi",
+      "name": "Lego Seti",
+      "price": "2.000 TL",
+      "brand": "Lego",
+      "model": "Star Wars: Millennium Falcon",
+      "imageUrl": "https://images.unsplash.com/photo-1585366119957-e9730b6d0f60?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "88",
+      "category_name": "Oyun ve Hobi",
+      "name": "Hobi Malzemesi",
+      "price": "1.000 TL",
+      "brand": "Derwent",
+      "model": "Derwent Graphic Pencil Set",
+      "imageUrl": "https://images.unsplash.com/photo-1501349800519-48093d60bde0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "89",
+      "category_name": "Sağlık ve Spor",
+      "name": "Akıllı Saat",
+      "price": "2.000 TL",
+      "brand": "Samsung",
+      "model": "Galaxy Watch4",
+      "imageUrl": "https://images.unsplash.com/photo-1553545204-4f7d339aa06a?q=80&w=1093&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "90",
+      "category_name": "Sağlık ve Spor",
+      "name": "Akıllı Bileklik",
+      "price": "1.000 TL",
+      "brand": "Xiaomi",
+      "model": "Mi Band 7",
+      "imageUrl": "https://images.unsplash.com/photo-1661605646725-c17398b63a8f?q=80&w=1160&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "91",
+      "category_name": "Sağlık ve Spor",
+      "name": "Fitness Bileklik",
+      "price": "500 TL",
+      "brand": "Amazfit",
+      "model": "Amazfit Bip U Pro",
+      "imageUrl": "https://images.unsplash.com/photo-1617625802912-cde586faf331?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "92",
+      "category_name": "Sağlık ve Spor",
+      "name": "Kan Basınç Ölçer",
+      "price": "500 TL",
+      "brand": "Omron",
+      "model": "M2 Basic",
+      "imageUrl": "https://images.unsplash.com/photo-1587400519568-1fe0329bfb2e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "93",
+      "category_name": "Sağlık ve Spor",
+      "name": "Egzersiz Bisikleti",
+      "price": "10.000 TL",
+      "brand": "Voit",
+      "model": "V-Fit Manyetik Kondisyon Bisikleti",
+      "imageUrl": "https://images.unsplash.com/photo-1597522781074-9a05ab90638e?q=80&w=1025&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "94",
+      "category_name": "Sağlık ve Spor",
+      "name": "Koşu Bandı",
+      "price": "15.000 TL",
+      "brand": "domyos",
+      "model": "T500",
+      "imageUrl": "https://images.unsplash.com/photo-1637712901929-a30440e1bb28?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "95",
+      "category_name": "Sağlık ve Spor",
+      "name": "Yoga Matı",
+      "price": "200 TL",
+      "brand": "Puma",
+      "model": "Puma Yoga Mat",
+      "imageUrl": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?q=80&w=1160&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "96",
+      "category_name": "Sağlık ve Spor",
+      "name": "Dumbbell",
+      "price": "500 TL",
+      "brand": "VSpor",
+      "model": "VSpor 25 kg Dumbbell Seti",
+      "imageUrl": "https://images.unsplash.com/photo-1638536532686-d610adfc8e5c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "97",
+      "category_name": "Sağlık ve Spor",
+      "name": "Kettlebell",
+      "price": "700 TL",
+      "brand": "Domyos",
+      "model": "Kettlebell 12 kg",
+      "imageUrl": "https://images.unsplash.com/photo-1632077804406-188472f1a810?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "98",
+      "category_name": "Kitap ve Kırtasiye",
+      "name": "Roman",
+      "price": "50 TL",
+      "brand": "Can Yayınları",
+      "model": "Daha İyi Bir Hayat İçin 100 Öneri",
+      "imageUrl": "https://images.unsplash.com/photo-1594312915251-48db9280c8f1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "99",
+      "category_name": "Kitap ve Kırtasiye",
+      "name": "Biyografi",
+      "price": "75 TL",
+      "brand": "Everest Yayınları",
+      "model": "Steve Jobs",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "100",
+      "category_name": "Kitap ve Kırtasiye",
+      "name": "Çocuk Kitabı",
+      "price": "25 TL",
+      "brand": "Doğan Egmont Yayıncılık",
+      "model": "Küçük Prens",
+      "imageUrl": "https://images.unsplash.com/photo-1524159326054-584646eca4bb?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "101",
+      "category_name": "Kitap ve Kırtasiye",
+      "name": "Yabancı Dil Kitabı",
+      "price": "100 TL",
+      "brand": "Cambridge University Press",
+      "model": "English Grammar In Use",
+      "imageUrl": "https://images.unsplash.com/photo-1529590003495-b2646e2718bf?q=80&w=952&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "102",
+      "category_name": "Kitap ve Kırtasiye",
+      "name": "Kırtasiye Malzemesi",
+      "price": "10 TL",
+      "brand": "Faber-Castell",
+      "model": "Grip 2011 Kalem",
+      "imageUrl": "https://images.unsplash.com/photo-1602335615741-59983ec71645?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "103",
+      "category_name": "Kitap ve Kırtasiye",
+      "name": "Kırtasiye Malzemesi",
+      "price": "20 TL",
+      "brand": "Stabilo",
+      "model": "Triplus Fineliner Kalem",
+      "imageUrl": "https://images.unsplash.com/photo-1641212443047-d7f35fd5eb16?q=80&w=1084&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "104",
+      "category_name": "Kitap ve Kırtasiye",
+      "name": "Kırtasiye Malzemesi",
+      "price": "50 TL",
+      "brand": "Efco",
+      "model": "E-Color Kalem",
+      "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "105",
+      "category_name": "Kitap ve Kırtasiye",
+      "name": "Kırtasiye Malzemesi",
+      "price": "10 TL",
+      "brand": "Muji",
+      "model": "Silgi",
+      "imageUrl": "https://images.unsplash.com/photo-1627186131254-702e182adb80?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "106",
+      "category_name": "Kitap ve Kırtasiye",
+      "name": "Kırtasiye Malzemesi",
+      "price": "20 TL",
+      "brand": "Kağıttan",
+      "model": "A4 Fotokopi Kağıdı",
+      "imageUrl": "https://images.unsplash.com/photo-1470790376778-a9fbc86d70e2?q=80&w=1004&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "107",
+      "category_name": "Ev Aletleri",
+      "name": "Buzdolabı",
+      "price": "10.000 TL",
+      "brand": "Samsung",
+      "model": "RT6000TWW",
+      "imageUrl": "https://images.unsplash.com/photo-1536353284924-9220c464e262?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "108",
+      "category_name": "Ev Aletleri",
+      "name": "Çamaşır Makinesi",
+      "price": "7.000 TL",
+      "brand": "Arçelik",
+      "model": "9124 HSY",
+      "imasgeUrl": "https://images.unsplash.com/photo-1622473590925-e3616c0a41bf?q=80&w=992&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "109",
+      "category_name": "Ev Aletleri",
+      "name": "Bulaşık Makinesi",
+      "price": "5.000 TL",
+      "brand": "Beko",
+      "model": "BKY 3506 I",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1677683510515-6a1b9d951f86?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "110",
+      "category_name": "Ev Aletleri",
+      "name": "Ankastre Fırın",
+      "price": "3.000 TL",
+      "brand": "Siemens",
+      "model": "EO6C6PO12E",
+      "imageUrl": "https://images.unsplash.com/photo-1565357253897-79d691886a73?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "111",
+      "category_name": "Ev Aletleri",
+      "name": "Ankastre Ocak",
+      "price": "2.000 TL",
+      "brand": "Bosch",
+      "model": "HGN331W1T",
+      "imageUrl": "https://images.unsplash.com/photo-1556908153-a685b0352d59?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "112",
+      "category_name": "Ev Aletleri",
+      "name": "Ankastre Davlumbaz",
+      "price": "1.500 TL",
+      "brand": "Arçelik",
+      "model": "P 18 YEI",
+      "imageUrl": "https://images.unsplash.com/photo-1610527003928-47afd5f470c6?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "113",
+      "category_name": "Ev Aletleri",
+      "name": "Elektrik Süpürgesi",
+      "price": "1.000 TL",
+      "brand": "Rowenta",
+      "model": "Ro8371",
+      "imageUrl": "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "114",
+      "category_name": "Ev Aletleri",
+      "name": "Çay Makinesi",
+      "price": "500 TL",
+      "brand": "Arzum",
+      "model": "K3282",
+      "imageUrl": "https://images.unsplash.com/photo-1593368700062-1bae1e875d78?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "115",
+      "category_name": "Ev Aletleri",
+      "name": "Tost Makinesi",
+      "price": "300 TL",
+      "brand": "Arzum",
+      "model": "K3008",
+      "imageUrl": "https://images.unsplash.com/photo-1655354435511-1809b2519cdf?q=80&w=1160&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "johndoe",
+      "password": "123456",
+      "email": "johndoe@example.com",
+      "name": "John Doe",
+      "surname": "Doe",
+      "phone": "0555 555 55 55",
+      "address": "İstanbul, Türkiye",
+      "createdAt": "2023-07-20T12:00:00.000Z",
+      "updatedAt": "2023-07-20T12:00:00.000Z",
+      "favorited_items": [],
+      "basket": []
+    },
+    {
+      "id": "2",
+      "username": "janedoe",
+      "password": "123456",
+      "email": "janedoe@example.com",
+      "name": "Jane Doe",
+      "surname": "Doe",
+      "phone": "0555 555 55 56",
+      "address": "Ankara, Türkiye",
+      "createdAt": "2023-07-20T12:00:00.000Z",
+      "updatedAt": "2023-07-20T12:00:00.000Z",
+      "favorited_items": [],
+      "basket": []
+    },
+    {
+      "id": "jTV4l1Kl3qqE7QluVMeZJ",
+      "username": "aliriza.durak",
+      "password": "123",
+      "email": "durakaliriza17@gmail.com",
+      "name": "",
+      "surname": "",
+      "phone": "0555 555 55 55",
+      "address": "İstanbul, Türkiye",
+      "createdAt": "2023-12-12T18:43:58.803Z",
+      "updatedAt": "2023-12-12T18:43:58.803Z",
+      "favorited_items": [],
+      "basket": []
+    }
+  ]
+}

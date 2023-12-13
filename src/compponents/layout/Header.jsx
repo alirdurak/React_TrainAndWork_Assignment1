@@ -6,17 +6,26 @@ import {
   NavbarBrand,
   Nav,
   NavItem,
-  NavLink,
   UncontrolledDropdown,
   DropdownToggle,
   DropdownMenu,
   DropdownItem,
 } from "reactstrap";
+import { useDispatch, useSelector } from "react-redux";
+import { updateSelectedCategory } from "../../redux/slices/CommerceSlice";
+import { Link } from "react-router-dom";
+import "./header.css";
 
-function Header(args) {
+function Header() {
+  const dispatch = useDispatch();
   const [isOpen, setIsOpen] = useState(false);
+  const user = useSelector((state) => state.UserSlice.currentUser);
 
   const toggle = () => setIsOpen(!isOpen);
+
+  const resetCat = () => {
+    dispatch(updateSelectedCategory(""));
+  };
 
   return (
     <Navbar
@@ -24,41 +33,76 @@ function Header(args) {
       expand="md"
       color="dark"
       dark
-      className="container-fluid"
-      {...args}
+      className="container-fluid mb-5"
     >
       <NavbarBrand href="/">Logo</NavbarBrand>
       <NavbarToggler onClick={toggle} />
       <Collapse isOpen={isOpen} navbar>
-        <Nav navbar className="me-auto">
+        <Nav navbar className="me-auto d-flex gap-4">
           <NavItem>
-            <NavLink href="/">Anasayfa</NavLink>
+            <Link className="text-secondary text-decoration-none link" to="/">
+              Anasayfa
+            </Link>
           </NavItem>
           <NavItem>
-            <NavLink href="/products">Ürünler</NavLink>
+            <Link
+              className="text-secondary text-decoration-none link"
+              onClick={resetCat}
+              to="/products"
+            >
+              Ürünler
+            </Link>
           </NavItem>
         </Nav>
         <Nav navbar className="ms-auto">
+          (
           <UncontrolledDropdown nav inNavbar>
             <DropdownToggle nav caret>
               Kullanıcı
             </DropdownToggle>
             <DropdownMenu dark end>
+              {user && (
+                <DropdownItem>
+                  <Link
+                    className="text-secondary text-decoration-none link"
+                    to="/user"
+                  >
+                    Kullanıcı Bilgileri
+                  </Link>
+                </DropdownItem>
+              )}
+              {user && (
+                <DropdownItem>
+                  <Link
+                    className="text-secondary text-decoration-none link"
+                    to="/basket"
+                  >
+                    Sepet
+                  </Link>
+                </DropdownItem>
+              )}
               <DropdownItem>
-                <NavLink href="/user">Kullanıcı Bilgileri</NavLink>
-              </DropdownItem>
-              <DropdownItem>
-                <NavLink href="/basket">Sepet</NavLink>
-              </DropdownItem>
-              <DropdownItem>
-                <NavLink href="/login">Giriş yap</NavLink>
+                <Link
+                  className="text-secondary text-decoration-none link"
+                  to="/login"
+                >
+                  Giriş yap
+                </Link>
               </DropdownItem>
               <DropdownItem divider />
-              <DropdownItem>
-                <NavLink href="/">Çıkış Yap</NavLink>
-              </DropdownItem>
+              {user && (
+                <DropdownItem className="link">
+                  <Link
+                    className="text-secondary text-decoration-none link"
+                    to="/"
+                  >
+                    Çıkış Yap
+                  </Link>
+                </DropdownItem>
+              )}
             </DropdownMenu>
           </UncontrolledDropdown>
+          )
         </Nav>
       </Collapse>
     </Navbar>
